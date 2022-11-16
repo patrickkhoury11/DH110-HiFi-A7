@@ -25,6 +25,13 @@ Task 2: Change the bio and link on the profile page
 
 ## Images of prototype Wireflows
 
+All interactive wireflows can be seen in extreme detail on the following Figma Links:
+
+[Figma Wireflow 1 Link](https://www.figma.com/file/pb6gNH5nuFXY8FcN3H9BLG/Task-1-Prototype?node-id=0%3A1&t=PV8G35x1fKMp1woU-0)
+
+[Figma Wireflow 2 Link](https://www.figma.com/file/P9DOlXkgTjfugOj0neG4Xx/Task-2-Prototype?node-id=0%3A1&t=E55nEM5KL1TX0ncz-0)
+
+
 ### Wireflow 1
 
 Intro:

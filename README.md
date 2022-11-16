@@ -28,7 +28,7 @@ Task 2: Change the bio and link on the profile page
 
 Intro:
 * Red arrows indicate going towards task, yellow arrows indicate going away from task
-![intro1](https://user-images.githubusercontent.com/114698093/202146657-b6a6aa74-4102-46cb-ba85-b5d028d322aa.jpg)
+![appintro](https://user-images.githubusercontent.com/114698093/202149585-1d20a30e-ff43-4720-8e1d-bc28003e61be.png)
 
 Primary Wireflow:
 * Red arrows indicate going towards task, yellow arrows indicate going away from task
@@ -38,7 +38,7 @@ Primary Wireflow:
 
 Intro:
 * Red arrows indicate going towards task, yellow arrows indicate going away from task
-![intro1](https://user-images.githubusercontent.com/114698093/202146657-b6a6aa74-4102-46cb-ba85-b5d028d322aa.jpg)
+![appintro](https://user-images.githubusercontent.com/114698093/202149607-c7825c1f-4fd9-4285-953e-b03182070689.png)
 
 Primary Wireflow:
 * Red arrows indicate going towards task, yellow arrows indicate going away from task

@@ -27,25 +27,25 @@ Task 2: Change the bio and link on the profile page
 ### Wireflow 1
 
 Intro:
-Red arrows indicate going towards task, yellow arrows indicate going away from task
+* Red arrows indicate going towards task, yellow arrows indicate going away from task
 ![intro1](https://user-images.githubusercontent.com/114698093/202146657-b6a6aa74-4102-46cb-ba85-b5d028d322aa.jpg)
 
 Primary Wireflow:
-Red arrows indicate going towards task, yellow arrows indicate going away from task
+* Red arrows indicate going towards task, yellow arrows indicate going away from task
 ![main1](https://user-images.githubusercontent.com/114698093/202146897-4b23eaae-ccaa-4918-a70b-61e0e7a82fbd.png)
 
 ### Wireflow 2
 
 Intro:
-Red arrows indicate going towards task, yellow arrows indicate going away from task
+* Red arrows indicate going towards task, yellow arrows indicate going away from task
 ![intro1](https://user-images.githubusercontent.com/114698093/202146657-b6a6aa74-4102-46cb-ba85-b5d028d322aa.jpg)
 
 Primary Wireflow:
-Red arrows indicate going towards task, yellow arrows indicate going away from task
+* Red arrows indicate going towards task, yellow arrows indicate going away from task
 ![prim2](https://user-images.githubusercontent.com/114698093/202147228-a9f9747b-cd5a-4274-9a26-a8511bc38436.png)
 
 Wireflow with alternative endings/directions to completion:
-Red arrows indicate going towards task, yellow arrows indicate going away from task
+* Red arrows indicate going towards task, yellow arrows indicate going away from task
 ![alt1](https://user-images.githubusercontent.com/114698093/202147665-6c26ced7-6030-43fe-bb7b-92b732a1f32a.png)
 
 

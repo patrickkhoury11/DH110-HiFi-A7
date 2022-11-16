@@ -1,6 +1,8 @@
-# High-Fidelity-Prototype - OutWrite Magazine 
+# High Fidelity Prototype 
 
-### DH150 Assignment08: High Fidelity Prototype by Naomi Deng
+## DH110 Assignment08: High Fidelity Prototype 
+
+### Patrick Khoury | DH110 | Dr. Sookie Cho
 
 - Figma Prototype Preview: https://naominzd.github.io/High-Fidelity-Prototype/outwrite.html
 

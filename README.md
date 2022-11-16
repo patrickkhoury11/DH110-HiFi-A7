@@ -4,7 +4,7 @@
 
 ### Patrick Khoury | DH110 | Dr. Sookie Cho
 
-- Link to Interactive Protoypes: [Task 1]([https://naominzd.github.io/High-Fidelity-Prototype/outwrite.html](https://www.figma.com/proto/pb6gNH5nuFXY8FcN3H9BLG/Task-1-Prototype?node-id=40%3A1668&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A1668) [Task 2](https://www.figma.com/proto/P9DOlXkgTjfugOj0neG4Xx/Task-2-Prototype?node-id=41%3A849&scaling=scale-down page-id=0%3A1&starting-point-node-id=41%3A849)
+- Link to Interactive Protoypes: [Task 1]((https://www.figma.com/proto/pb6gNH5nuFXY8FcN3H9BLG/Task-1-Prototype?node-id=40%3A1668&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A1668) [Task 2](https://www.figma.com/proto/P9DOlXkgTjfugOj0neG4Xx/Task-2-Prototype?node-id=41%3A849&scaling=scale-down&page-id=0%3A1&starting-point-node-id=41%3A849)
 
 ## Brief Summary: Purposes and Process
 
